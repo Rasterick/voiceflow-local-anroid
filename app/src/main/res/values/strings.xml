@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WriteMyWords</string>
+    <string name="accessibility_service_description">Allows WriteMyWords to detect focused text fields in apps like WhatsApp, Gmail, and Google Search to automatically inject your dictated speech.</string>
+</resources>

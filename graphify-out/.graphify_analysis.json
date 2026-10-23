@@ -1,0 +1,473 @@
+{
+  "communities": {
+    "0": [
+      "animatecontentsize",
+      "animatedvisibility",
+      "animatefloatasstate",
+      "app_src_main_java_com_voiceflow_local_service_overlaypillservice",
+      "check",
+      "composeview",
+      "decelerateinterpolator",
+      "detecttapgestures",
+      "fadein",
+      "fadeout",
+      "graphicslayer",
+      "icon",
+      "lifecycleregistry",
+      "mic",
+      "notificationchannel",
+      "notificationcompat",
+      "notificationmanager",
+      "pixelformat",
+      "pointerinput",
+      "powermanager",
+      "refresh",
+      "savedstateregistry",
+      "savedstateregistrycontroller",
+      "service",
+      "serviceinfo",
+      "setviewtreelifecycleowner",
+      "setviewtreesavedstateregistryowner",
+      "setviewtreeviewmodelstoreowner",
+      "suppresslint",
+      "text",
+      "tween",
+      "valueanimator",
+      "viewmodelstore",
+      "viewmodelstoreowner"
+    ],
+    "1": [
+      "base64",
+      "check_2215",
+      "check_2b",
+      "check_2b_init",
+      "check_aar",
+      "check_builder",
+      "check_classes",
+      "check_latest_failure",
+      "check_mem",
+      "check_recent",
+      "check_session_builder",
+      "eval_prompts",
+      "eval_prompts_run_prompt_test",
+      "read_drafts",
+      "read_logs",
+      "subprocess",
+      "test_broadcast",
+      "test_llm_prompts",
+      "test_llm_prompts_test_text",
+      "test_rewrite",
+      "test_sentence",
+      "test_strategy",
+      "test_strategy_test_prompt",
+      "test_submarine",
+      "test_tinfish_2b",
+      "test_tinfish_live",
+      "time",
+      "zipfile"
+    ],
+    "2": [
+      "activityresultcontracts",
+      "app_src_main_java_com_voiceflow_local_mainactivity",
+      "app_src_main_java_com_voiceflow_local_mainactivity_kt_bundle",
+      "app_src_main_java_com_voiceflow_local_mainactivity_mainactivity",
+      "app_src_main_java_com_voiceflow_local_mainactivity_mainactivity_checkmicpermission",
+      "app_src_main_java_com_voiceflow_local_mainactivity_mainactivity_launchoverlay",
+      "app_src_main_java_com_voiceflow_local_mainactivity_mainactivity_oncreate",
+      "app_src_main_java_com_voiceflow_local_mainactivity_mainactivity_onresume",
+      "app_src_main_java_com_voiceflow_local_mainactivity_mainactivity_stopoverlay",
+      "app_src_main_java_com_voiceflow_local_theme_theme",
+      "app_src_main_java_com_voiceflow_local_theme_theme_writemywordstheme",
+      "app_src_main_java_com_voiceflow_local_ui_main_mainscreen_mainscreen",
+      "app_src_main_java_com_voiceflow_local_ui_main_mainscreen_mainscreenpreview",
+      "app_src_main_java_com_voiceflow_local_ui_main_mainscreen_permissionrow",
+      "build",
+      "componentactivity",
+      "composable",
+      "contextcompat",
+      "coroutinescope",
+      "darkcolorscheme",
+      "enableedgetoedge",
+      "issystemindarktheme",
+      "manifest",
+      "materialtheme",
+      "packagemanager",
+      "setcontent",
+      "toast"
+    ],
+    "3": [
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_kt_bundle",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_speechengine",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_speechengine_finalizesession",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_speechengine_forcereset",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_speechengine_initrecognizer",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_speechengine_initrecognizer_object_recognitionlistener_l105",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_speechengine_initrecognizer_object_recognitionlistener_l105_onbeginningofspeech",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_speechengine_initrecognizer_object_recognitionlistener_l105_onbufferreceived",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_speechengine_initrecognizer_object_recognitionlistener_l105_onendofspeech",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_speechengine_initrecognizer_object_recognitionlistener_l105_onerror",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_speechengine_initrecognizer_object_recognitionlistener_l105_onevent",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_speechengine_initrecognizer_object_recognitionlistener_l105_onpartialresults",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_speechengine_initrecognizer_object_recognitionlistener_l105_onreadyforspeech",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_speechengine_initrecognizer_object_recognitionlistener_l105_onresults",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_speechengine_initrecognizer_object_recognitionlistener_l105_onrmschanged",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_speechengine_isllmtierenabled",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_speechengine_mutesystembeeps",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_speechengine_release",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_speechengine_restartrecognitionloop",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_speechengine_startlistening",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_speechengine_startlisteninginternal",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_speechengine_startwatchdog",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_speechengine_stoplistening",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_speechengine_stopwatchdog",
+      "bytearray",
+      "polished",
+      "rawdraft"
+    ],
+    "4": [
+      "accessibilitymanager",
+      "accessibilityserviceinfo",
+      "alignment",
+      "app_src_main_java_com_voiceflow_local_ui_main_mainscreen",
+      "background",
+      "border",
+      "circleshape",
+      "clickable",
+      "clip",
+      "dp",
+      "icons",
+      "items",
+      "lazycolumn",
+      "lazyrow",
+      "lifecycle",
+      "lifecycleeventobserver",
+      "localcontext",
+      "localinspectionmode",
+      "locallifecycleowner",
+      "modifier",
+      "roundedcornershape",
+      "settings",
+      "uri"
+    ],
+    "5": [
+      "accessibilityevent",
+      "accessibilitynodeinfo",
+      "accessibilityservice",
+      "accessibilitywindowinfo",
+      "app_src_main_java_com_voiceflow_local_service_dictationaccessibilityservice",
+      "app_src_main_java_com_voiceflow_local_service_dictationaccessibilityservice_dictationaccessibilityservice",
+      "app_src_main_java_com_voiceflow_local_service_dictationaccessibilityservice_dictationaccessibilityservice_copytoclipboard",
+      "app_src_main_java_com_voiceflow_local_service_dictationaccessibilityservice_dictationaccessibilityservice_findactiveeditablenode",
+      "app_src_main_java_com_voiceflow_local_service_dictationaccessibilityservice_dictationaccessibilityservice_findanyeditablerecursively",
+      "app_src_main_java_com_voiceflow_local_service_dictationaccessibilityservice_dictationaccessibilityservice_findfocusededitablerecursively",
+      "app_src_main_java_com_voiceflow_local_service_dictationaccessibilityservice_dictationaccessibilityservice_injecttext",
+      "app_src_main_java_com_voiceflow_local_service_dictationaccessibilityservice_dictationaccessibilityservice_injecttextglobally",
+      "app_src_main_java_com_voiceflow_local_service_dictationaccessibilityservice_dictationaccessibilityservice_isrunning",
+      "app_src_main_java_com_voiceflow_local_service_dictationaccessibilityservice_dictationaccessibilityservice_onaccessibilityevent",
+      "app_src_main_java_com_voiceflow_local_service_dictationaccessibilityservice_dictationaccessibilityservice_ondestroy",
+      "app_src_main_java_com_voiceflow_local_service_dictationaccessibilityservice_dictationaccessibilityservice_oninterrupt",
+      "app_src_main_java_com_voiceflow_local_service_dictationaccessibilityservice_dictationaccessibilityservice_onserviceconnected",
+      "app_src_main_java_com_voiceflow_local_service_dictationaccessibilityservice_kt_context",
+      "bundle",
+      "clipboardmanager",
+      "clipdata",
+      "weakreference"
+    ],
+    "6": [
+      "app_src_main_java_com_voiceflow_local_service_overlaypillservice_draggableframelayout",
+      "app_src_main_java_com_voiceflow_local_service_overlaypillservice_draggableframelayout_onintercepttouchevent",
+      "app_src_main_java_com_voiceflow_local_service_overlaypillservice_draggableframelayout_ontouchevent",
+      "app_src_main_java_com_voiceflow_local_service_overlaypillservice_overlaypillservice",
+      "app_src_main_java_com_voiceflow_local_service_overlaypillservice_overlaypillservice_animatewindowx",
+      "app_src_main_java_com_voiceflow_local_service_overlaypillservice_overlaypillservice_cancelinactivitytimer",
+      "app_src_main_java_com_voiceflow_local_service_overlaypillservice_overlaypillservice_collapsetoedge",
+      "app_src_main_java_com_voiceflow_local_service_overlaypillservice_overlaypillservice_expandfromedge",
+      "app_src_main_java_com_voiceflow_local_service_overlaypillservice_overlaypillservice_handlescreenawakestate",
+      "app_src_main_java_com_voiceflow_local_service_overlaypillservice_overlaypillservice_initspeechengine",
+      "app_src_main_java_com_voiceflow_local_service_overlaypillservice_overlaypillservice_oncreate",
+      "app_src_main_java_com_voiceflow_local_service_overlaypillservice_overlaypillservice_ondestroy",
+      "app_src_main_java_com_voiceflow_local_service_overlaypillservice_overlaypillservice_resetinactivitytimer",
+      "app_src_main_java_com_voiceflow_local_service_overlaypillservice_overlaypillservice_showoverlaypill",
+      "app_src_main_java_com_voiceflow_local_service_overlaypillservice_overlaypillservice_snaptonearestedge",
+      "app_src_main_java_com_voiceflow_local_service_overlaypillservice_overlaypillservice_startforegroundservice",
+      "framelayout",
+      "lifecycleowner",
+      "motionevent",
+      "savedstateregistryowner",
+      "view",
+      "windowmanager"
+    ],
+    "7": [
+      "app_src_main_java_com_voiceflow_local_engine_speechengine",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_dictationstate",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_dictationstate_idle",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_dictationstate_listening",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_dictationstate_processing",
+      "app_src_main_java_com_voiceflow_local_engine_speechengine_dictationstate_success",
+      "app_src_main_java_com_voiceflow_local_service_overlaypillservice_dockedge",
+      "app_src_main_java_com_voiceflow_local_service_overlaypillservice_dockedge_left",
+      "app_src_main_java_com_voiceflow_local_service_overlaypillservice_dockedge_right",
+      "app_src_main_java_com_voiceflow_local_service_overlaypillservice_pillcapsuleoverlay",
+      "audiomanager",
+      "context",
+      "handler",
+      "launch",
+      "locale",
+      "looper",
+      "recognizerintent",
+      "speechrecognizer"
+    ],
+    "8": [
+      "app_src_main_java_com_voiceflow_local_engine_llmstructuringengine",
+      "app_src_main_java_com_voiceflow_local_engine_llmstructuringengine_kt_context",
+      "app_src_main_java_com_voiceflow_local_engine_llmstructuringengine_llmstructuringengine",
+      "app_src_main_java_com_voiceflow_local_engine_llmstructuringengine_llmstructuringengine_getavailablemodelfile",
+      "app_src_main_java_com_voiceflow_local_engine_llmstructuringengine_llmstructuringengine_getavailablemodelfiles",
+      "app_src_main_java_com_voiceflow_local_engine_llmstructuringengine_llmstructuringengine_initialize",
+      "app_src_main_java_com_voiceflow_local_engine_llmstructuringengine_llmstructuringengine_rawinference",
+      "app_src_main_java_com_voiceflow_local_engine_llmstructuringengine_llmstructuringengine_splitintochunks",
+      "app_src_main_java_com_voiceflow_local_engine_llmstructuringengine_llmstructuringengine_structureandpunctuate",
+      "app_src_main_java_com_voiceflow_local_engine_llmstructuringengine_llmstructuringengine_structuresinglechunk",
+      "dispatchers",
+      "file",
+      "llminference",
+      "withcontext"
+    ],
+    "9": [
+      "graphify_analyze",
+      "graphify_build",
+      "graphify_cluster",
+      "graphify_detect",
+      "graphify_export",
+      "graphify_extract",
+      "graphify_report",
+      "json",
+      "os",
+      "pathlib",
+      "scratch_apply",
+      "scratch_apply_prompt",
+      "scratch_fix_prompt",
+      "scratch_graphify"
+    ],
+    "10": [
+      "app_src_main_java_com_voiceflow_local_data_vocabularymanager",
+      "app_src_main_java_com_voiceflow_local_data_vocabularymanager_kt_context",
+      "app_src_main_java_com_voiceflow_local_data_vocabularymanager_vocabularymanager",
+      "app_src_main_java_com_voiceflow_local_data_vocabularymanager_vocabularymanager_readsystemuserdictionary",
+      "app_src_main_java_com_voiceflow_local_data_vocabularymanager_vocabularyprofile",
+      "log",
+      "userdictionary"
+    ],
+    "11": [
+      "app_src_main_java_com_voiceflow_local_theme_type",
+      "fontfamily",
+      "fontweight",
+      "sp",
+      "textstyle",
+      "typography"
+    ],
+    "12": [
+      "gradlew",
+      "gradlew__entry",
+      "gradlew_die",
+      "gradlew_save",
+      "gradlew_warn"
+    ],
+    "13": [
+      "app_src_main_java_com_voiceflow_local_navigationkeys",
+      "app_src_main_java_com_voiceflow_local_navigationkeys_main",
+      "navkey",
+      "serializable"
+    ],
+    "14": [
+      "app_src_main_java_com_voiceflow_local_service_overlaypillservice_overlaypillservice_onbind",
+      "ibinder",
+      "intent"
+    ],
+    "15": [
+      "app_src_main_java_com_voiceflow_local_theme_color",
+      "app_src_main_java_com_voiceflow_local_ui_main_mainscreen_enginetiercard",
+      "color"
+    ],
+    "16": [
+      "re",
+      "scratch_apply_2b_prompt"
+    ],
+    "17": [
+      "sys",
+      "test_ps"
+    ],
+    "18": [
+      "app_build_gradle"
+    ],
+    "19": [
+      "build_gradle"
+    ],
+    "20": [
+      "scratch_add_eval"
+    ],
+    "21": [
+      "scratch_dedup"
+    ],
+    "22": [
+      "scratch_export_service"
+    ],
+    "23": [
+      "scratch_switch_2b"
+    ],
+    "24": [
+      "settings_gradle"
+    ]
+  },
+  "cohesion": {
+    "0": 0.058823529411764705,
+    "1": 0.1111111111111111,
+    "2": 0.09971509971509972,
+    "3": 0.15954415954415954,
+    "4": 0.08695652173913043,
+    "5": 0.15151515151515152,
+    "6": 0.20346320346320346,
+    "7": 0.1111111111111111,
+    "8": 0.24175824175824176,
+    "9": 0.14285714285714285,
+    "10": 0.38095238095238093,
+    "11": 0.3333333333333333,
+    "12": 0.7,
+    "13": 0.6666666666666666,
+    "14": 0.6666666666666666,
+    "15": 0.6666666666666666,
+    "16": 1.0,
+    "17": 1.0,
+    "18": 1.0,
+    "19": 1.0,
+    "20": 1.0,
+    "21": 1.0,
+    "22": 1.0,
+    "23": 1.0,
+    "24": 1.0
+  },
+  "gods": [
+    {
+      "id": "app_src_main_java_com_voiceflow_local_service_overlaypillservice_overlaypillservice",
+      "label": "OverlayPillService",
+      "degree": 26
+    },
+    {
+      "id": "app_src_main_java_com_voiceflow_local_engine_speechengine_speechengine",
+      "label": "SpeechEngine",
+      "degree": 19
+    },
+    {
+      "id": "app_src_main_java_com_voiceflow_local_service_dictationaccessibilityservice_dictationaccessibilityservice",
+      "label": "DictationAccessibilityService",
+      "degree": 15
+    },
+    {
+      "id": "app_src_main_java_com_voiceflow_local_engine_speechengine_speechengine_initrecognizer_object_recognitionlistener_l105",
+      "label": "RecognitionListener",
+      "degree": 13
+    },
+    {
+      "id": "app_src_main_java_com_voiceflow_local_engine_llmstructuringengine_llmstructuringengine",
+      "label": "LlmStructuringEngine",
+      "degree": 12
+    },
+    {
+      "id": "app_src_main_java_com_voiceflow_local_engine_speechengine_dictationstate",
+      "label": "DictationState",
+      "degree": 9
+    },
+    {
+      "id": "app_src_main_java_com_voiceflow_local_ui_main_mainscreen_mainscreen",
+      "label": "MainScreen()",
+      "degree": 8
+    },
+    {
+      "id": "app_src_main_java_com_voiceflow_local_mainactivity_mainactivity",
+      "label": "MainActivity",
+      "degree": 7
+    },
+    {
+      "id": "app_src_main_java_com_voiceflow_local_service_overlaypillservice_draggableframelayout",
+      "label": "DraggableFrameLayout",
+      "degree": 6
+    },
+    {
+      "id": "app_src_main_java_com_voiceflow_local_theme_theme_writemywordstheme",
+      "label": "WriteMyWordsTheme()",
+      "degree": 5
+    }
+  ],
+  "surprises": [
+    {
+      "source": "OverlayPillService",
+      "target": "SpeechEngine",
+      "source_files": [
+        "app/src/main/java/com/voiceflow/local/service/OverlayPillService.kt",
+        "app/src/main/java/com/voiceflow/local/engine/SpeechEngine.kt"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "MainScreenPreview()",
+      "target": "WriteMyWordsTheme()",
+      "source_files": [
+        "app/src/main/java/com/voiceflow/local/ui/main/MainScreen.kt",
+        "app/src/main/java/com/voiceflow/local/theme/Theme.kt"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source"
+    },
+    {
+      "source": "PillCapsuleOverlay()",
+      "target": "DictationState",
+      "source_files": [
+        "app/src/main/java/com/voiceflow/local/service/OverlayPillService.kt",
+        "app/src/main/java/com/voiceflow/local/engine/SpeechEngine.kt"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "cross-file semantic connection"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `OverlayPillService` connect `Community 6` to `Community 0`, `Community 2`, `Community 3`, `Community 4`, `Community 14`?",
+      "why": "High betweenness centrality (0.099) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `SpeechEngine` connect `Community 3` to `Community 0`, `Community 6`, `Community 7`?",
+      "why": "High betweenness centrality (0.097) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `DictationAccessibilityService` connect `Community 5` to `Community 4`?",
+      "why": "High betweenness centrality (0.069) - this node is a cross-community bridge."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `IDLE`, `LISTENING`, `PROCESSING` to the rest of the system?",
+      "why": "6 weakly-connected nodes found - possible documentation gaps or missing edges."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 0` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.058823529411764705 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 1` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.1111111111111111 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 2` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.09971509971509972 - nodes in this community are weakly interconnected."
+    }
+  ]
+}
